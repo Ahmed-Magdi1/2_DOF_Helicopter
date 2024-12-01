@@ -1,1 +1,1 @@
-# This repository is dedicated to my research project (RP)
+# This repository is dedicated to research project (RP)
