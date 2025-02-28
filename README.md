@@ -8,6 +8,10 @@
 
 <img src="./Images/Wiring_diagram.png" alt="Raptor2" width="700">
 
+## Helicpoter Wiring Diagram:
+
+<img src="./Images/Flow.png" alt="Raptor2" width="700">
+
 ## Related Repositories
 
 ### Neural Networks models:
