@@ -8,9 +8,9 @@
 
 <img src="./Images/Wiring_diagram.png" alt="Raptor2" width="700">
 
-## Helicpoter Wiring Diagram:
+## Helicpoter Flow Diagram:
 
-<img src="./Images/Flow.png" alt="Raptor2" width="700">
+<img src="./Images/Flow.jpeg" alt="Raptor2" width="800">
 
 ## Related Repositories
 
