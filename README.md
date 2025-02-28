@@ -1,5 +1,13 @@
 # This repository is dedicated to research project (RP)
 
+## Helicpoter Model:
+
+<img src="./Images/Helicopter_Model.JPG" alt="Raptor2" width="600">
+
+## Helicpoter Wiring Diagram:
+
+<img src="./Images/Wiring_diagram.png" alt="Raptor2" width="700">
+
 ## Related Repositories
 
 ### Neural Networks models:
