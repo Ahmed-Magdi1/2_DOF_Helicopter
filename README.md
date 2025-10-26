@@ -1,4 +1,4 @@
-# 2DOF Helicopter System Research Project
+# 2-DOF Helicopter System Research Project
 
 This repository contains the main research project (RP) documentation and resources for developing advanced control systems for a 2-Degree-of-Freedom (2DOF) helicopter model using various neural network architectures.
 
